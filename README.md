@@ -52,7 +52,7 @@ notebooks/
 requirements.txt
 
 ## Fraud Distribution
-![Fraud Distribution](C:\Users\tahan\OneDrive\Pictures\Screenshots)
+![Fraud Distribution](https://github.com/taha433nomani/credit-card-fraud-detection-python/blob/main/Screenshot%202026-05-30%20235747.png)
 
 ## Monthly Transactions Volume 
 ![Monthly Transaction Volume](C:\Users\tahan\OneDrive\Pictures\Screenshots)
