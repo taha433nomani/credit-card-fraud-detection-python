@@ -55,7 +55,7 @@ requirements.txt
 ![Fraud Distribution](https://github.com/taha433nomani/credit-card-fraud-detection-python/blob/main/Screenshot%202026-05-30%20235747.png)
 
 ## Monthly Transactions Volume 
-![Monthly Transaction Volume](C:\Users\tahan\OneDrive\Pictures\Screenshots)
+![Monthly Transaction Volume](https://github.com/taha433nomani/credit-card-fraud-detection-python/blob/main/Screenshot%202026-05-30%20235853.png)
 
 ## Fraud Rate By Gender
 ![Fraud rate by gender](C:\Users\tahan\OneDrive\Pictures\Screenshots)
