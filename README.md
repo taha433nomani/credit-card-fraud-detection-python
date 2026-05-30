@@ -1,19 +1,52 @@
-credit-card-fraud-detection-python/
+## Credit Card Fraud Detection & Transaction Analysis
+## Project Overview
 
-│
-├── data/
-│   └── credit_card_transactions.csv
-│
-├── images/
-│   ├── fraud_distribution.png
-│   ├── fraud_rate_category.png
-│   ├── monthly_trends.png
-│   ├── age_distribution.png
-│   └── correlation_heatmap.png
-│
-├── notebooks/
-│   └── Credit_Card_Fraud_Detection.ipynb
-│
-├── requirements.txt
-│
-└── README.md
+This project focuses on analyzing credit card transaction data to identify fraud patterns and customer spending behavior using Python.
+
+The project demonstrates data cleaning, exploratory data analysis (EDA), data visualization, and fraud trend identification.
+
+## Objectives
+Analyze transaction data
+Identify fraudulent transactions
+Understand customer spending behavior
+Visualize trends and patterns
+Generate business insights
+
+## Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+Features
+Data Cleaning
+Missing value handling
+Duplicate removal
+Date formatting
+Feature preprocessing
+Exploratory Data Analysis
+Fraud vs Non-Fraud Analysis
+Category-wise Fraud Rate
+Gender-wise Fraud Analysis
+Monthly Transaction Trends
+Customer Age Distribution
+
+## Data Visualization
+Bar Charts
+Pie Charts
+Histograms
+Scatter Plots
+Correlation Heatmaps
+
+## Key Insights
+Fraudulent transactions constitute a small percentage of overall transactions.
+Certain transaction categories exhibit higher fraud rates.
+Spending behavior varies significantly among customers.
+Monthly transaction trends reveal seasonal spending patterns.
+
+## Project Structure
+data/
+images/
+notebooks/
+requirements.txt
