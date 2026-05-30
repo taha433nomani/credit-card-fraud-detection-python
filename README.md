@@ -58,5 +58,5 @@ requirements.txt
 ![Fraud rate by gender](https://github.com/taha433nomani/credit-card-fraud-detection-python/blob/main/Screenshot%202026-05-30%20235853.png)
 
 ## Monthly Transactions Volume 
-![Monthly Transaction Volume]()
+![Monthly Transaction Volume](https://github.com/taha433nomani/credit-card-fraud-detection-python/blob/main/Screenshot%202026-05-31%20000209.png)
 
