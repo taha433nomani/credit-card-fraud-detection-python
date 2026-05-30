@@ -50,3 +50,13 @@ data/
 images/
 notebooks/
 requirements.txt
+
+## Fraud Distribution
+![Fraud Distribution](C:\Users\tahan\OneDrive\Pictures\Screenshots)
+
+## Monthly Transactions Volume 
+![Monthly Transaction Volume](C:\Users\tahan\OneDrive\Pictures\Screenshots)
+
+## Fraud Rate By Gender
+![Fraud rate by gender](C:\Users\tahan\OneDrive\Pictures\Screenshots)
+
